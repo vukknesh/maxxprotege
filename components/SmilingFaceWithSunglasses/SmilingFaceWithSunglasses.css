@@ -1,0 +1,79 @@
+.smiling-face-with-sunglasses-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 47px;
+  left: 1088px;
+  min-width: 47px;
+  position: absolute;
+  top: 206px;
+  transform: rotate(-4.02deg);
+}
+
+.overlap-group {
+  height: 54px;
+  margin-left: -3px;
+  margin-top: -3.5px;
+  position: relative;
+  width: 53px;
+}
+
+.inner {
+  height: 45px;
+  left: 4px;
+  position: absolute;
+  top: 4px;
+  transform: rotate(4.02deg);
+  width: 44px;
+}
+
+.main {
+  height: 50px;
+  left: 2px;
+  position: absolute;
+  top: 2px;
+  transform: rotate(4.02deg);
+  width: 50px;
+}
+
+.glasses {
+  height: 17px;
+  left: 3px;
+  position: absolute;
+  top: 17px;
+  transform: rotate(4.02deg);
+  width: 48px;
+}
+
+.smiling-face-with-sunglasses-3.smiling-face-with-sunglasses-4 {
+  height: 39px;
+  left: 896px;
+  min-width: 39px;
+  top: 170px;
+}
+
+.smiling-face-with-sunglasses-3.smiling-face-with-sunglasses-4 .overlap-group {
+  height: 44px;
+  margin-top: -2.86px;
+  width: 44px;
+}
+
+.smiling-face-with-sunglasses-3.smiling-face-with-sunglasses-4 .inner {
+  height: 37px;
+  top: 3px;
+  width: 36px;
+}
+
+.smiling-face-with-sunglasses-3.smiling-face-with-sunglasses-4 .main {
+  height: 42px;
+  left: 1px;
+  top: 1px;
+  width: 41px;
+}
+
+.smiling-face-with-sunglasses-3.smiling-face-with-sunglasses-4 .glasses {
+  height: 14px;
+  left: 2px;
+  top: 14px;
+  width: 39px;
+}
+

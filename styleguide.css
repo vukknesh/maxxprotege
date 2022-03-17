@@ -1,0 +1,222 @@
+:root { 
+  --black: #000000;
+  --black-haze: #f6f6f6;
+  --blue: #3005fe;
+  --flamingo: #f26531;
+  --international-klein-blue: #002cba;
+  --orange: #ff6623;
+  --orange-2: #fe652c;
+  --resolution-blue: #01228c;
+  --resolution-blue-2: #00228c4a;
+  --sonic-silver: #777373;
+  --white: #ffffff;
+ 
+  --font-size-l: 28.3px;
+  --font-size-m: 20px;
+  --font-size-s: 18px;
+  --font-size-xs: 15px;
+  --font-size-xxs: 14.3px;
+  --font-size-xxxs: 13.5px;
+  --font-size-xxxxs: 12.2px;
+ 
+  --font-family-gotham-black: "Gotham-Black", Helvetica;
+  --font-family-gotham-bold: "Gotham-Bold", Helvetica;
+  --font-family-gotham-book: "Gotham-Book", Helvetica;
+  --font-family-gotham-bookitalic: "Gotham-BookItalic", Helvetica;
+  --font-family-gotham-medium: "Gotham-Medium", Helvetica;
+  --font-family-gotham-regular: "Gotham-Regular", Helvetica;
+  --font-family-gotham-ultra: "Gotham-Ultra", Helvetica;
+  --font-family-gotham-ultraitalic: "Gotham-UltraItalic", Helvetica;
+}
+.gotham-bold-white-14-3px {
+  color: var(--white);
+  font-family: var(--font-family-gotham-bold);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gotham-bold-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-gotham-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gotham-book-normal-white-12-2px {
+  color: var(--white);
+  font-family: var(--font-family-gotham-book);
+  font-size: var(--font-size-xxxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gotham-book-normal-white-15px,
+.gotham-book-normal-white-15px-2 {
+  color: var(--white);
+  font-family: var(--font-family-gotham-book);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gotham-regular-normal-white-14-3px {
+  color: var(--white);
+  font-family: var(--font-family-gotham-regular);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gotham-regular-normal-international-klein-blue-20px {
+  color: var(--international-klein-blue);
+  font-family: var(--font-family-gotham-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gotham-regular-normal-international-klein-blue-13-5px {
+  color: var(--international-klein-blue);
+  font-family: var(--font-family-gotham-regular);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gotham-medium-resolution-blue-24-6px {
+  color: var(--resolution-blue);
+  font-family: var(--font-family-gotham-medium);
+  font-size: 24.6px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.gotham-black-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-gotham-black);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.gotham-ultra-normal-international-klein-blue-72-1px {
+  color: var(--international-klein-blue);
+  font-family: var(--font-family-gotham-ultra);
+  font-size: 72.1px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gotham-book-normal-international-klein-blue-28-3px {
+  color: var(--international-klein-blue);
+  font-family: var(--font-family-gotham-book);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gotham-bold-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-gotham-bold);
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gotham-regular-normal-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-gotham-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gotham-black-international-klein-blue-20px {
+  color: var(--international-klein-blue);
+  font-family: var(--font-family-gotham-black);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.gotham-medium-international-klein-blue-17-4px {
+  color: var(--international-klein-blue);
+  font-family: var(--font-family-gotham-medium);
+  font-size: 17.4px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.gotham-black-flamingo-30-8px {
+  color: var(--flamingo);
+  font-family: var(--font-family-gotham-black);
+  font-size: 30.8px;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.gotham-ultra-normal-international-klein-blue-36-9px {
+  color: var(--international-klein-blue);
+  font-family: var(--font-family-gotham-ultra);
+  font-size: 36.9px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gotham-black-international-klein-blue-13-5px {
+  color: var(--international-klein-blue);
+  font-family: var(--font-family-gotham-black);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 900;
+}
+
+.gotham-medium-international-klein-blue-14-4px {
+  color: var(--international-klein-blue);
+  font-family: var(--font-family-gotham-medium);
+  font-size: 14.4px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.gotham-medium-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-gotham-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.gotham-bold-white-21-7px {
+  color: var(--white);
+  font-family: var(--font-family-gotham-bold);
+  font-size: 21.7px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gotham-book-normal-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-gotham-book);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gotham-black-flamingo-21-7px {
+  color: var(--flamingo);
+  font-family: var(--font-family-gotham-black);
+  font-size: 21.7px;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.border-0-5px-sonic-silver {
+  border: 0.5px solid var(--sonic-silver);
+}
+
+.border-0-4px-sonic-silver {
+  border: 0.4px solid var(--sonic-silver);
+}
