@@ -166,7 +166,7 @@ function Frame2(props) {
                 {reaDoAssociado}
                 </a>
                 </div>
-            <div className="benefcios gotham-medium-resolution-blue-24-6px">{benefcios1}</div>
+            <div className="benefcios gotham-medium-resolution-blue-24-6px">Benefícios</div>
             <div className="faa-uma-cotao gotham-medium-resolution-blue-24-6px">{faaUmaCotao}</div>
             <div className="curiosidade gotham-medium-resolution-blue-24-6px">{curiosidade}</div>
             <div className="s-a-maxx-tem gotham-medium-resolution-blue-24-6px">{sAMaxxTem}</div>
